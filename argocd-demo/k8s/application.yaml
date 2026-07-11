@@ -13,7 +13,7 @@ spec:
   source:
     repoURL: https://github.com/fenixonline/argocd-demo.git
     targetRevision: main
-    path: k8s
+    path: argocd-demo/k8s
 
   destination:
     server: https://kubernetes.default.svc
