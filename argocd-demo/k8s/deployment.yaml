@@ -22,7 +22,7 @@ spec:
 
       - name: demo
 
-        image: ghcr.io/fenixonline/argocd-demo:e82a8a9e1fca095581e38cd943ac799e94cd1b7c
+        image: ghcr.io/fenixonline/argocd-demo:de78eab24b8fcc295cf2530565142e0669d13b3b
 
         imagePullPolicy: Always
 
